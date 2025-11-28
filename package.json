@@ -1,0 +1,16 @@
+{
+  "name": "cornfed-code",
+  "version": "1.0.0",
+  "description": "Cornfed Code - Custom Websites & Apps for Small Business",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite build && vite preview"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "vite": "^5.0.0"
+  }
+}
